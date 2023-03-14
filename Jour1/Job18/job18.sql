@@ -1,0 +1,1 @@
+delete from etudiants where nom = 'Doe' and prenom = 'John' and age = 18 and email = 'john.doe@laplateforme.io';
